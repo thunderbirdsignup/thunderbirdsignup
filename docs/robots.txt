@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thunderbirdsdocs.readthedocs.io/en/latest/sitemap.xml
